@@ -1,7 +1,7 @@
 >So, the assignment - "Dribbble challenge". If you do not know what Dribbbble (https://dribbble.com/) is a design showcase website, where digital designer uploads their experiments, creations, and designs. What we will do, is select 3 designs and code them. That is often the case in Front-End Developers work.
 
 ### EXAMPLE:
-Selected design: [https://dribbble.com/shots/2375246-Fashion-Butique-slider-animation](https://dribbble.com/shots/2375246-Fashion-Butique-slider-animation]
+Selected design: [https://dribbble.com/shots/2375246-Fashion-Butique-slider-animation](https://dribbble.com/shots/2375246-Fashion-Butique-slider-animation)
 Coded example: [https://codepen.io/mariosmaselli/pen/ZpvLao](https://codepen.io/mariosmaselli/pen/ZpvLao)
 The above example could have better markup in my opinion. However, the animation example was re-created with code which was the goal.
 
