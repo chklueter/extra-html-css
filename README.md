@@ -12,7 +12,7 @@ Design: [https://dribbble.com/shots/2127657-Day-002-Product-Card/attachments/387
 Description: a product card, very often we have to code something like this in real life for clients.
 
 ## Task #2:  
-(https://dribbble.com/shots/1406335-Purchase)[https://dribbble.com/shots/1406335-Purchase]
+[https://dribbble.com/shots/1406335-Purchase](https://dribbble.com/shots/1406335-Purchase)
 Description: purchase form. Simple, but very important part of many websites.
 
 ### Task #3: 
